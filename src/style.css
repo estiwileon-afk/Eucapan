@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  font-family: "Newsreader", serif;
+  text-decoration: none;
+}
+:root {
+  --fondo: #fcf5ed;
+  --acento: #ff6543;
+  --textos: #3a3a3a;
+  --hover: #d8bb9b;
+  --sombras-border: #d3c3b1;
+  --secundarios: #a08a69;
+}
+
+body {
+  max-width: 100dvw;
+  overflow-x: hidden;
+  background-color: var(--fondo);
+}
+@keyframes pulse {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0.2;
+  }
+}
