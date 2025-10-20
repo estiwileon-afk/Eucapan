@@ -282,7 +282,7 @@ function añadirCarrito(productoElegido) {
     .details{
         flex-direction: column;
         height:calc(100svh - 4rem);
-        min-height:100%;
+        min-height:calc(100vh - 2rem);
         justify-content: start;
         gap: 2rem;
         padding: 1rem 1.5rem;
