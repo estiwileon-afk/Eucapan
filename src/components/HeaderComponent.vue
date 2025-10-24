@@ -203,7 +203,8 @@ const {isProduct} = storeToRefs(useProductosStore());
   justify-content: space-between;
   align-items: center;
   padding: 0 2.5rem;
-  border-bottom: 1px solid #d3c3b1;
+  
+  
 }
 .logo-container {
   display: flex;
