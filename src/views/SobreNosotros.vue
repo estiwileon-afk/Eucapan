@@ -16,7 +16,7 @@ const personas = [
     <section class="nosotros">
 <section class="container-text">
     <h1 class="title">La Pasión Detras Del Pan</h1>
-    <p class="text">En Eucapan, somos un equipo apasionado por la calidad y la sostenibilidad. Cada miembro aporta una perspectiva única, uniendo fuerzas para crear productos excepcionales que respetan el medio ambiente. Conoce a las personas que tejen la historia de nuestra marca.</p>
+    <p class="text">En Eucanova, somos un equipo apasionado por la calidad y la sostenibilidad. Cada miembro aporta una perspectiva única, uniendo fuerzas para crear productos excepcionales que respetan el medio ambiente. Conoce a las personas que tejen la historia de nuestra marca.</p>
 </section>
 
 <section class="container-grid">

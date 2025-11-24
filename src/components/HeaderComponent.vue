@@ -30,7 +30,7 @@ const {isProduct} = storeToRefs(useProductosStore());
         src="/logo.webp"
         alt="Logo"
       />
-      <span class="logo-text">Eucapan</span>
+      <span class="logo-text">Eucanova</span>
     </div>
     <div class="nav-container desk">
       <nav class="navbar">
